@@ -14,7 +14,7 @@ published: true
 layout: modulbeschreibung
 veranstaltungsform: 
 typ: pm
-infourl: https://ilias.th-koeln.de/ilias.php?ref_id=19830&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui
+infourl: https://ilu.th-koeln.de/goto.php?target=crs_71267&client_id=thkilu
 pvl: true
 studienleistungen:
   Einzelleistung:
