@@ -14,7 +14,7 @@ published: true
 layout: modulbeschreibung
 typ: pm
 veranstaltungsform: 
-infourl: https://ilias.th-koeln.de/ilias.php?ref_id=21298&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui
+infourl: https://ilias.th-koeln.de/goto.php?target=crs_2318251&client_id=ILIAS_FH_Koeln
 studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung
